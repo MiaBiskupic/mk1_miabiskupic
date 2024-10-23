@@ -1,0 +1,92 @@
+body {
+<style>
+    font-family: DM Sans Serif, sans-serif;
+    background-image: linear-gradient(purple, black); 
+	
+    margin: 0;
+    padding: 0;
+	 height: 100%;
+  background-position: center;
+  background-size: 1900px 1900px;
+            margin: 0;
+            align-items: center;
+            text-align: center;
+			
+}
+
+
+header {
+    background-color: #ab47bc; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: black;
+	font-family: "DM Serif Text "	
+}
+
+p {
+    line-height: 2;
+p {
+	
+	font-size:20px;
+	}
+	margin: 10px;
+	position: fixed;
+    left: 20px;
+    bottom: 30px;
+	border-top: 1px solid green;
+	/*border-left: 1px solid green;
+	border-right: 1px solid green;*/
+	border-bottom: 1px solid green;	
+	color: white;
+}
+.return{
+	background-color: green;
+}
+
+.link{
+	color: aqua;
+}
+aside {
+    background-color: #c8e6c9; 
+    padding: 15px;
+    margin: 10px 0;
+}
+
+aside h2 {
+    color: #2e7d32; 
+}
+
+
+footer {
+    background-color: #ab47bc; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+a {
+    color: pink;
+}
+
+a:visited {
+  color: deeppink;
+}
+a:hover {
+    color: teal;
+
+h2, h4 {
+	color: white;
+	font-weight: bold;
+}
